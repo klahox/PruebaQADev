@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-16T12:04:08 CET" name="Default suite" finished-at="2025-03-16T12:05:36 CET" duration-ms="87472">
+    <groups>
+    </groups>
+    <test started-at="2025-03-16T12:04:08 CET" name="Default test" finished-at="2025-03-16T12:05:36 CET" duration-ms="87472">
+      <class name="tests.SeleniumTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.SeleniumTestNG@3012646b]" started-at="2025-03-16T12:04:09 CET" name="setUp" finished-at="2025-03-16T12:04:13 CET" duration-ms="4583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="initDriver()[pri:0, instance:tests.SeleniumTestNG@3012646b]" started-at="2025-03-16T12:04:13 CET" name="initDriver" finished-at="2025-03-16T12:05:35 CET" duration-ms="81685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SeleniumTestNG@3012646b]" started-at="2025-03-16T12:05:35 CET" name="tearDown" finished-at="2025-03-16T12:05:36 CET" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SeleniumTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
